@@ -1,0 +1,34 @@
+features:
+
+Login page:
+option to choose between renter and customer
+
+options for renter:
+registration form
+equipment name
+images
+ownership proof
+government approved ID
+price per hour/day
+location
+keeping track of rented equipment
+delete from listing
+
+
+
+customer:
+searching equipment
+sorting based on rating,price,location
+Booking/buying
+rating the renter
+rating the equipment after returning/buying
+making a watchlist in which he can see if the equipment is available or not and get notified when equipment is available
+getting details of the renter
+option to prebook while the equipment is already booked
+option to check the availability dates
+option to ask if you need an operator.
+option to cancel the order before the delivery begins  
+
+Admin:
+Edit Farmer details
+
