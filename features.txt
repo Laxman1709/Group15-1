@@ -1,8 +1,5 @@
 features:
 
-Login page:
-option to choose between renter and customer
-
 options for renter:
 registration form
 equipment name
